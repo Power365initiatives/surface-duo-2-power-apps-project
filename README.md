@@ -2,7 +2,8 @@
 
 This project will include multiple applications built for Canvas App specifically for Surface Duo 2.
 
-## Canvas App Template
+## Canvas App Template 
+<a href="https://github.com/Power365initiatives/surface-duo-2-power-apps-project/tree/main/canvas-app-template" target="_blank">Canvas App Template</a>
 
 This template can be use to build Canvas Apps with the needed layout for Surface Duo 2, taking in consideraiton the size of the screen and the hunge. 
 
