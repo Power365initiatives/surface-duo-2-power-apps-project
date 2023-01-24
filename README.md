@@ -13,7 +13,28 @@ In this repository, you'll find:
 1) An unmanaged solution
 2) A Canvas App
 
-Template build by *Nico Fernandez*
+Template built by *Nico Fernandez*
+
+https://www.nfernandezba.com
+
+https://www.linkedin.com/in/nfernandezba
+
+##Meeting Capture for Surface Duo 2
+
+Meeting Capture is one of the oldest templates that Microsoft offers that integrates Outlook, OneNote and Planner. The original version of the app it's not functional for Surface Duo 2. That is why we rebuilt it.
+
+In this new version, you'll find the following screens:
+
+- Welcome Screen
+- Home Screen
+- Confirm Screen
+- Export Screen
+- Follow Up Screen
+- Follow Up Times Screen
+- Home Pop Ups Screen
+- Collections and Varialbe Screen
+
+App adapted by *Nico Fernandez*
 
 https://www.nfernandezba.com
 
