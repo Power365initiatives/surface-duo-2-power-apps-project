@@ -34,6 +34,10 @@ In this new version, you'll find the following screens:
 - Home Pop Ups Screen
 - Collections and Varialbe Screen
 
+![image](https://user-images.githubusercontent.com/117593801/214314301-ef98ef89-03dc-4782-abed-3c25b1e2fa3b.png)
+
+![image](https://user-images.githubusercontent.com/117593801/214314472-700ae0e5-c2a6-465b-9788-0e9a1f3a4794.png)
+
 App adapted by *Nico Fernandez*
 
 https://www.nfernandezba.com
